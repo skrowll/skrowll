@@ -5,6 +5,10 @@
 - 💻 Dev Front-end Jr. formado pela [Trybe](https://www.betrybe.com/) / [@Trybe](https://github.com/tryber)
 - 📚 Atualmente Estudando Desenvolvimento Full Stack também na [Trybe](https://www.betrybe.com/) / [@Trybe](https://github.com/tryber)
 ##
+### Contato ###
+<a href="https://www.linkedin.com/in/lucasjrocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:lucasdejesus.rocha@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+##
 ### Ferramentas ###
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -39,10 +43,6 @@
 <h4 align="left">Estudando...<img width="15px" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/hourglass-done_231b.png"/></h2>
 
 ![typescript Badge](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-##
-### Contato ###
-<a href="https://www.linkedin.com/in/lucasjrocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:lucasdejesus.rocha@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 ##
 ### Github Stats ###
 
