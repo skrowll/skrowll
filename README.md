@@ -1,15 +1,16 @@
-<h2 align="center">Olá <img width="30px" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif"/> , eu sou o Lucas Rocha, seja bem vindo(a) ao meu perfil do GitHub!</h2>
+<h2 align="center">"Hello World" <img width="30px" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif"/>  Eu sou o Lucas Rocha <br> Seja bem vindo(a) ao meu perfil do GitHub!</h2>
 <img align="right" src ="https://raw.githubusercontent.com/gist/skrowll/43483ed44f18c90a47a4dbea20ef4e64/raw/49357d1b0f63abc045e73c33c8771ca1d451d48d/githubcard.svg"/>
 
 - 🚀 Um cara simples que curte tecnologia, jogos, resolver problemas de lógica e quebra-cabeças.
 - 💻 Dev Front-end Jr. formado pela [Trybe](https://www.betrybe.com/) / [@Trybe](https://github.com/tryber)
 - 📚 Atualmente Estudando Desenvolvimento Full Stack também na [Trybe](https://www.betrybe.com/) / [@Trybe](https://github.com/tryber)
 ##
-### Contato ###
+### ✉️ Entre em contato ###
 <a href="https://www.linkedin.com/in/lucasjrocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:lucasdejesus.rocha@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://api.whatsapp.com/send?phone=5511964421447"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white" target="_blank"></a>
 ##
-### Ferramentas ###
+### 🧰 Utils & Dev-Tools ###
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -33,7 +34,7 @@
 ![Sequelize Badge](https://img.shields.io/badge/-Sequelize-eeeeee?style=for-the-badge&logo=sequelize&logoColor=00b1ea)
 ![JWT Badge](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-#### Testes ####
+#### Tests ####
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React Testing Library Badge](https://img.shields.io/badge/-RTL-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Mocha Badge](https://img.shields.io/badge/Mocha-8a6343?style=for-the-badge&logo=mocha&logoColor=white)
@@ -44,11 +45,13 @@
 
 ![typescript Badge](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ##
-### Github Stats ###
+### 📊 Github Stats ###
 
-<img align="center" width="500em" alt="Skrowll's GitHub stats" src ="https://github-readme-stats.vercel.app/api?username=skrowll&hide=stars,issues&count_private=true&show_icons=true&theme=onedark"/>
-<img align="center" width="500em" alt="Skrowll's Top Langs" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=skrowll&count_private=true&theme=onedark"/>
-<img align="center" width="500em" alt="Skrowll's Streak stats" src ="https://github-readme-streak-stats.herokuapp.com/?user=skrowll&theme=onedark&"/>
+<div align="center">
+  <img align="center" width="500em" alt="Skrowll's GitHub stats" src ="https://github-readme-stats.vercel.app/api?username=skrowll&hide=stars,issues&count_private=true&show_icons=true&theme=onedark"/>
+  <img align="center" width="500em" alt="Skrowll's Top Langs" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=skrowll&count_private=true&theme=onedark"/>
+  <img align="center" width="500em" alt="Skrowll's Streak stats" src ="https://github-readme-streak-stats.herokuapp.com/?user=skrowll&theme=onedark&"/>
+</div>
 
 ##
 
