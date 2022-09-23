@@ -48,9 +48,9 @@
 ### 📊 Github Stats ###
 
 <div align="center">
-  <img align="center" width="500em" alt="Skrowll's GitHub stats" src ="https://github-readme-stats.vercel.app/api?username=skrowll&hide=stars,issues&count_private=true&show_icons=true&theme=onedark"/>
-  <img align="center" width="500em" alt="Skrowll's Top Langs" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=skrowll&count_private=true&theme=onedark"/>
-  <img align="center" width="500em" alt="Skrowll's Streak stats" src ="https://github-readme-streak-stats.herokuapp.com/?user=skrowll&theme=onedark&"/>
+  <p><img align="center" width="500em" alt="Skrowll's Top Langs" src ="https://github-readme-stats.vercel.app/api/top-langs?username=skrowll&show_icons=true&locale=en&layout=compact&theme=onedark"/></p>
+  <p><img align="center" width="500em" alt="Skrowll's GitHub stats" src ="https://github-readme-stats.vercel.app/api?username=skrowll&count_private=true&show_icons=true&hide=stars,issues&theme=onedark"/></p>
+  <p><img align="center" width="500em" alt="Skrowll's Streak stats" src ="https://github-readme-streak-stats.herokuapp.com/?user=skrowll&theme=onedark&"/></p>
 </div>
 
 ##
