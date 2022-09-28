@@ -18,6 +18,7 @@
 ![Vscode Badge](https://img.shields.io/badge/Vscode-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Eslint Badge](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 #### Web ####
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,7 +34,6 @@
 ![Express Badge](https://img.shields.io/badge/-Express.js-green?style=for-the-badge&logo=Express&logoColor=black)
 ![Sequelize Badge](https://img.shields.io/badge/-Sequelize-eeeeee?style=for-the-badge&logo=sequelize&logoColor=00b1ea)
 ![JWT Badge](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 #### Tests ####
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React Testing Library Badge](https://img.shields.io/badge/-RTL-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
