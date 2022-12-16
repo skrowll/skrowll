@@ -8,7 +8,7 @@
 ### ✉️ Entre em contato ###
 <a href="https://www.linkedin.com/in/lucasjrocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:lucasdejesus.rocha@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://api.whatsapp.com/send?phone=5511964421447"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href = "https://api.whatsapp.com/send?phone=5511964421447" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white"></a>
 ##
 ### 🧰 Utils & Dev-Tools ###
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
