@@ -1,5 +1,5 @@
 <h2 align="center">"Hello World" <img width="30px" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif"/>  Eu sou o Lucas Rocha <br> Seja bem vindo(a) ao meu perfil do GitHub!</h2>
-<img align="right" src ="https://raw.githubusercontent.com/gist/skrowll/f6c3e204963fbb25bfd7f1cc3a7014af/raw/8d6e58822ee8f36cc50a3968149066b87e01cae2/githubcard-v2.svg"/>
+<img align="right" src ="https://raw.githubusercontent.com/gist/skrowll/f6c3e204963fbb25bfd7f1cc3a7014af/raw/ddcf260798e5c279c84d257d649b94d6806e2e68/githubcard-v2.svg"/>
 
 - 🚀 Um cara simples que curte tecnologia, jogos, resolver problemas de lógica e quebra-cabeças.
 - 💻 Dev Front-end Jr. formado pela [Trybe](https://www.betrybe.com/) / [@Trybe](https://github.com/tryber)
