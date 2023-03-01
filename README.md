@@ -5,9 +5,9 @@
 - 💻 Desenvolvedor Web Full Satck formado pela [Trybe](https://www.betrybe.com/) / [@Trybe](https://github.com/tryber)
 ##
 ### ✉️ Entre em contato ###
+<a href="mailto:lucasdejesus.rocha@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-email-323330?style=for-the-badge&logo=gmail&logoColor=red"></a>
+<a href="https://api.whatsapp.com/send?phone=5511964421447" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-323330?style=for-the-badge&logo=whatsapp&logoColor=green"></a>
 <a href="https://www.linkedin.com/in/lucasjrocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=blue"></a> 
-<a href = "mailto:lucasdejesus.rocha@hotmail.com"><img src="https://img.shields.io/badge/-email-323330?style=for-the-badge&logo=gmail&logoColor=red"></a>
-<a href = "https://api.whatsapp.com/send?phone=5511964421447"><img src="https://img.shields.io/badge/-whatsapp-323330?style=for-the-badge&logo=whatsapp&logoColor=green"></a>
 ##
 ### 🧰 Utils & Dev-Tools ###
 ![Linux Badge](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=black)
