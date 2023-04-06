@@ -2,7 +2,7 @@
 <img align="right" src ="https://raw.githubusercontent.com/gist/skrowll/f6c3e204963fbb25bfd7f1cc3a7014af/raw/ddcf260798e5c279c84d257d649b94d6806e2e68/githubcard-v2.svg"/>
 
 - 🚀 Um cara simples que curte tecnologia, jogos, resolver problemas de lógica e quebra-cabeças.
-- 💻 Desenvolvedor Web Full Satck formado pela [Trybe](https://www.betrybe.com/) / [@Trybe](https://github.com/tryber)
+- 💻 Desenvolvedor Web Full Stack formado pela [Trybe](https://www.betrybe.com/) / [@Trybe](https://github.com/tryber)
 ##
 ### ✉️ Entre em contato ###
 <a href="mailto:lucasdejesus.rocha@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-email-323330?style=for-the-badge&logo=gmail&logoColor=red"></a>
