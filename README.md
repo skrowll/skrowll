@@ -21,6 +21,8 @@
 ![Vercel Badge](https://img.shields.io/badge/Vercel-323330?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku Badge](https://img.shields.io/badge/Heroku-323330?style=for-the-badge&logo=heroku&logoColor=blueviolet)
 ![Docker Badge](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=Docker&logoColor=blue)
+![AWS Badge](https://img.shields.io/badge/Aws-323330?style=for-the-badge&logo=aws&logoColor=blue)
+![AWS Badge](https://img.shields.io/badge/Azure-323330?style=for-the-badge&logo=Azure&logoColor=blue)
 #### Back-end ####
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-323330?style=for-the-badge&logo=node.js&logoColor=green)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=blue)
