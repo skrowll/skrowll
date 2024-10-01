@@ -21,26 +21,23 @@
 ![Vercel Badge](https://img.shields.io/badge/Vercel-323330?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku Badge](https://img.shields.io/badge/Heroku-323330?style=for-the-badge&logo=heroku&logoColor=blueviolet)
 ![Docker Badge](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=Docker&logoColor=blue)
-#### Linguages ####
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript Badge](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=blue)
-![Python Badge](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=yellow)
-#### Front-end ####
-![HTML Badge](https://img.shields.io/badge/-HTML-323330?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS Badge](https://img.shields.io/badge/-CSS-323330?style=for-the-badge&logo=css3&logoColor=blue)
-![React](https://img.shields.io/badge/react-323330?style=for-the-badge&logo=react&logoColor=cyan)
-![Redux Badge](https://img.shields.io/badge/-Redux-323330?style=for-the-badge&logo=Redux&logoColor=purple)
-![Hooks Badge](https://img.shields.io/badge/-Hooks-323330?style=for-the-badge&logo=React&logoColor=cyan)
-![React Router Badge](https://img.shields.io/badge/-React%20Router-323330?style=for-the-badge&logo=React-router&logoColor=red)
-![NextJS Badge](https://img.shields.io/badge/-Next.js-323330?style=for-the-badge&logo=Next.js&logoColor=white)
 #### Back-end ####
-![MySQL Badge](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=blue)
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-323330?style=for-the-badge&logo=node.js&logoColor=green)
+![MySQL Badge](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=blue)
 ![Express Badge](https://img.shields.io/badge/-Express.js-323330?style=for-the-badge&logo=Express&logoColor=black)
 ![Sequelize Badge](https://img.shields.io/badge/-Sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![MongoDB Badge](https://img.shields.io/badge/-Mongodb-323330?style=for-the-badge&logo=mongodb&logoColor=green)
 ![.env Badge](https://img.shields.io/badge/.env-323330?style=for-the-badge&logo=.env&logoColor=yellow)
 ![JWT Badge](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=magenta)
+#### Front-end ####
+![HTML Badge](https://img.shields.io/badge/-HTML-323330?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS Badge](https://img.shields.io/badge/-CSS-323330?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/react-323330?style=for-the-badge&logo=react&logoColor=cyan)
+![Redux Badge](https://img.shields.io/badge/-Redux-323330?style=for-the-badge&logo=Redux&logoColor=purple)
+![Hooks Badge](https://img.shields.io/badge/-Hooks-323330?style=for-the-badge&logo=React&logoColor=cyan)
+![React Router Badge](https://img.shields.io/badge/-React%20Router-323330?style=for-the-badge&logo=React-router&logoColor=red)
+![NextJS Badge](https://img.shields.io/badge/-Next.js-323330?style=for-the-badge&logo=Next.js&logoColor=white)
 #### Tests ####
 ![Jest Badge](https://img.shields.io/badge/-Jest-323330?style=for-the-badge&logo=jest&logoColor=orangered)
 ![Cypress Badge](https://img.shields.io/badge/-Cypress-323330?style=for-the-badge&logo=cypress&logoColor=white)
@@ -49,6 +46,8 @@
 ![Chai Badge](https://img.shields.io/badge/Chai-323330?style=for-the-badge&logo=chai&logoColor=red)
 ![Sinon Badge](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)
 ![Pytest Badge](https://img.shields.io/badge/Pytest-323330?style=for-the-badge&logo=pytest&logoColor=blue)
+#### Outros ####
+![Python Badge](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=yellow)
 
 ##
 ### 📊 Github Stats ###
